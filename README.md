@@ -11,3 +11,5 @@ Make sure you have Python installed. Then, install the required dependencies:
 ```bash
 pip install -r requirements.txt
 
+### Video drive link
+https://drive.google.com/file/d/1urAn6HP4jziNVodiMHf62_cnlzRIBpt_/view?usp=sharing
